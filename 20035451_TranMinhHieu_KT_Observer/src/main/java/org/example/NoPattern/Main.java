@@ -16,7 +16,7 @@ public class Main {
 
         // Khi trạng thái thay đổi, tất cả khách hàng sẽ nhận thông báo
         phong.setTrangThai("Da duoc dat");
-        //phong.setTrangThai("Trong");
+        phong.setTrangThai("Trong");
     }
 }
 
